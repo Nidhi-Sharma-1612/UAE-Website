@@ -1,0 +1,184 @@
+body{
+    height: 935px;
+    width: 1920px;
+    display: flex;
+    text-align: center;
+}
+
+.row
+{
+    position: absolute;
+    height: 935px;
+    width: 1920px;
+}
+
+.rightSide{
+    width: 1165px;
+    height: 935px;
+    position: absolute;
+    
+}
+
+.choose{
+    position: relative;
+    font-family: 'Montserrat -30px', sans-serif;
+    text-align: left;
+    font-size: 30px;
+    top: 328px;
+    left: 1281px;
+    width: 520px;
+    height: 37px;
+    color: #3C3C3C;
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-3c3c3c);
+    letter-spacing: 0;
+    
+}
+
+h1
+{
+    font-size: 4rem;
+}
+
+.line{
+    position: relative;
+    color: black;
+    top: 384px;
+    left: 1285px;
+    width: 515px;
+    height: 10px;
+    opacity: 1;
+}
+
+.brand
+{
+    position: relative;
+    background: transparent url('img/Kazo-transparent-black1312.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 137px;
+    left: 1393px;
+    width: 298px;
+    height: 85px;
+    color: white;
+}
+
+.bottom-container
+{
+    position: absolute;
+    display: flex;
+    font-size: 20px;
+    text-align: left;
+    color: #3C3C3C;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.f1,.f2,.f3,.f4,.f5,.f6
+{
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.f1{
+    position: absolute;
+    top: 467px;
+    left: 1256px;
+    width: 121.16px;
+    height: 72.8px;
+}
+
+.f2{
+    position: absolute;
+    top: 468px;
+    left: 1477px;
+    width: 121px;
+    height: 73px;
+    right: 312px;
+    
+}
+
+.f3{
+    position: absolute;
+    top: 466px;
+    left: 1698px;
+    width: 136px;
+    height: 74px;
+}
+
+.f4{
+    position: absolute;
+    top: 676px;
+    left: 1250px;
+    width: 133px;
+    height: 73px;
+}
+
+.f5{
+    position: absolute;
+    top: 676px;
+    left: 1468px;
+    width: 144.36px;
+    height: 75.52px;
+}
+
+.f6{
+    position: absolute;
+    top: 676px;
+    left: 1699px;
+    width: 122px;
+    height: 74px;
+}
+
+.bahrain-flag{
+    position: absolute;
+    top: 566px;
+    left: 1277px;
+    width: 80px;
+    height: 24px;
+}
+
+.kuwait-flag{
+    position: absolute;
+    top: 566px;
+    left: 1500px;
+    width: 71px;
+    height: 24px;
+}
+
+.oman-flag{
+    position: absolute;
+    top: 566px;
+    left: 1727px;
+    width: 64px;
+    height: 24px;
+}
+
+.qatar-flag{
+    position: absolute;
+    top: 775px;
+    left: 1250px;
+    width: 133px;
+    height: 73px;
+    text-align: center;
+    
+
+}
+
+.uae-flag{
+    position: absolute;
+    top: 775px;
+    left: 1517px;
+    width: 40px;
+    height: 24px;
+    
+}
+
+.saudi-flag{
+    position: absolute;
+    top: 775px;
+    left: 1731px;
+    width: 57px;
+    height: 24px;
+}
+
+
